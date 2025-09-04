@@ -30,7 +30,8 @@ Contains my Python practice code, exercises, and problem-solving attempts.
 
 ## 🌐 Connect with Me
 - 📧 Email: Karansandhir03@gamil.com 
-- 💼 LinkedIn: Karan Sandhir Student 
+- 💼 LinkedIn: Karan Sandhir
+-               Student 
 
 ---
 
